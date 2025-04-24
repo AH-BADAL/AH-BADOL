@@ -25,7 +25,6 @@ Skills: HTML/CSS/JAVASCRIPT/REACT
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AH-BADOL/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/AH-BADOL)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AH-BADOL)  
 
