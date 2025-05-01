@@ -23,8 +23,3 @@ SkILLS: HTML/CSS/JAVASCRIPT/REACT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-BADOL)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AH-BADOL&show_icons=true&count_private=true)  
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AH-BADOL)  
-
