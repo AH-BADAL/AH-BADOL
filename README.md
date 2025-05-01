@@ -5,10 +5,10 @@
 
 ALWAYS LOVE TO LEARN NEW SKILLS !❤️
 
-Skills: HTML/CSS/JAVASCRIPT/REACT
+SkILLS: HTML/CSS/JAVASCRIPT/REACT
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning CSS 
+- 🌱 I’m currently learning CSS AND JAVASCRIPT
 - 👯 I’m looking to collaborate on GITHUB 
 - 💬 Ask me about WEB-DEVELOPMENT 
 
